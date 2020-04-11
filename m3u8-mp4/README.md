@@ -1,6 +1,6 @@
 #### Linux ver
 
-<a href="LinuxVer/dv" download="dv">Download</a>
+[download](LinuxVer/dv)
 
 #### Windows ver
 
