@@ -1,0 +1,3 @@
+
+#!/bin/sh
+ffmpeg -i $1 -bsf:a aac_adtstoasc -vcodec copy -c copy -crf 50 $2.mp4
