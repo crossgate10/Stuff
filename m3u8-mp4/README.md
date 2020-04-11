@@ -1,6 +1,6 @@
 #### Linux ver
 
-[Download](https://raw.githubusercontent.com/crossgate10/Stuff/master/m3u8-mp4/LinuxVer/dv)
+<a href="https://raw.githubusercontent.com/crossgate10/Stuff/master/m3u8-mp4/LinuxVer/dv" download>Download</a>
 
 #### Windows ver
 
